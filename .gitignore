@@ -1,0 +1,15 @@
+# Eclipse
+.metadata/
+.settings/
+
+# Java
+bin/
+target/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
