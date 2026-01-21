@@ -1,4 +1,4 @@
-package br.com.luisgustavo.javafundamentos.sequencial;
+package br.com.luisgustavo.javafundamentos.estrutura_sequencial;
 
 import java.util.Scanner;
 
